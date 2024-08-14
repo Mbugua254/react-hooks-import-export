@@ -3,3 +3,8 @@ function howManyParks() {
 }
 
 export default howManyParks;
+
+
+//export function howManyParks() {
+//  console.log("42 parks!");
+//}

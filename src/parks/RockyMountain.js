@@ -8,4 +8,12 @@ function elevation() {
   console.log("9583 ft");
 }
 
+//named export syntax
 export { trees, wildlife };
+
+// export const trees = "Aspen and Pine";
+
+// export function wildlife() {
+//  console.log("Elk, Bighorn Sheep, Moose");
+//}
+
